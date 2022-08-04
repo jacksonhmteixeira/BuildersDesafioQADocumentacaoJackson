@@ -1,6 +1,6 @@
 <div align="center">
 
-# Builders | Challenge - QA
+# [Builders] [Challenge - QA]
 
 Esse repositório foi criado para armazenar todas as documentações de testes referente ao **Challenge QA**.
 </div>
