@@ -12,7 +12,7 @@ Esse repositório foi criado para armazenar todas as documentações de testes r
 - Evidências dos testes;
 - Clareza nos cenários, evidências e defeitos.
 
-## 2° - Documentações de Testes (Estrutura das Pastas)
+## 2° - Documentações de Testes
 
 - CENARIOS
   - [CENARIOS DE TESTES] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/CENARIOS/PDF/%5BCENARIOS%20DE%20TESTES%5D.pdf);*
