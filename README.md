@@ -10,8 +10,7 @@ Esse repositório foi criado para armazenar todas as documentações de testes r
 - Cenários de Testes;
 - Relatório com os problemas encontrados com evidências (Print);
 - Evidências dos testes;
-- Clareza nos cenários, evidências e defeitos;
-- Sugestões de melhorias.
+- Clareza nos cenários, evidências e defeitos.
 
 ## 2° - Documentações de Testes (Estrutura das Pastas)
 
