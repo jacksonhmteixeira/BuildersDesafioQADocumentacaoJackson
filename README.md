@@ -5,7 +5,15 @@
 Esse repositório foi criado para armazenar todas as documentações de testes referente ao **Challenge QA**.
 </div>
 
-## Documentações de Testes
+## 1° - O que foi entregue nesse repositório?
+
+- Cenários de Testes;
+- Relatório com os problemas encontrados com evidências (Print);
+- Evidências dos testes;
+- Clareza nos cenários, evidências e defeitos;
+- Sugestões de melhorias.
+
+## 2° - Documentações de Testes (Estrutura das Pastas)
 
 - CENARIOS
   - [CENARIOS DE TESTES] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/CENARIOS/%5BCHALLENGE-QA%5D%20%5BCENARIOS%20DE%20TESTES%5D.docx);*
