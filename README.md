@@ -12,16 +12,16 @@ Esse repositório foi criado para armazenar todas as documentações de testes r
 - Evidências dos testes;
 - Clareza nos cenários, evidências e defeitos.
 
-## 2° - Documentações de Testes (Estrutura das Pastas)
+## 2° - Documentações de Testes
 
 - CENARIOS
-  - [CENARIOS DE TESTES] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/CENARIOS/%5BCHALLENGE-QA%5D%20%5BCENARIOS%20DE%20TESTES%5D.docx);*
+  - [CENARIOS DE TESTES] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/CENARIOS/PDF/%5BCENARIOS%20DE%20TESTES%5D.pdf);*
 - DEFEITOS
-  - [001][DEFEITOS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/%5B001%5D%20%5BDEFEITOS%5D%20%5BTELA%20INICIAL%5D.docx);*
-  - [002][DEFEITOS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/%5B002%5D%20%5BDEFEITOS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.docx);*
-  - [003][DEFEITOS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/%5B003%5D%20%5BDEFEITOS%5D%20%5BTEMPERATURA%5D.docx);*
-  - [004][DEFEITOS][UX] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/%5B004%5D%20%5BDEFEITOS%5D%20%5BUX%5D.docx);*
+  - [001][DEFEITOS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B001%5D%20%5BDEFEITOS%5D%20%5BTELA%20INICIAL%5D.pdf);*
+  - [002][DEFEITOS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B002%5D%20%5BDEFEITOS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.pdf);*
+  - [003][DEFEITOS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B003%5D%20%5BDEFEITOS%5D%20%5BTEMPERATURA%5D.pdf);*
+  - [004][DEFEITOS][UX] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B004%5D%20%5BDEFEITOS%5D%20%5BUX%5D.pdf);*
 - EVIDENCIAS
-  - [001][EVIDENCIAS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/%5B001%5D%20%5BEVIDENCIAS%5D%20%5BTELA%20INICIAL%5D.docx);*
-  - [002][EVIDENCIAS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/%5B002%5D%20%5BEVIDENCIAS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.docx);*
-  - [003][EVIDENCIAS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/%5B003%5D%20%5BEVIDENCIAS%5D%20%5BTEMPERATURA%5D.docx);*
+  - [001][EVIDENCIAS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B001%5D%20%5BEVIDENCIAS%5D%20%5BTELA%20INICIAL%5D.pdf);*
+  - [002][EVIDENCIAS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B002%5D%20%5BEVIDENCIAS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.pdf);*
+  - [003][EVIDENCIAS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B003%5D%20%5BEVIDENCIAS%5D%20%5BTEMPERATURA%5D.pdf);*
