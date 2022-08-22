@@ -1,27 +1,26 @@
 <div align="center">
 
-# [Builders] [Challenge - QA]
+# Builders - Desafio QA - Documentação
 
-Esse repositório foi criado para armazenar todas as documentações de testes referente ao **Challenge QA**.
+Esse repositório foi criado para armazenar o desafio da **Builders**.
 </div>
 
-## 1° - O que foi entregue nesse repositório?
+#  Documentações de Testes
 
-- Cenários de Testes;
-- Relatório com os problemas encontrados com evidências (Print);
-- Evidências dos testes;
-- Clareza nos cenários, evidências e defeitos.
+Foram realizados os testes solicitados, na lista abaixo se encontra os cenários, defeitos e evidências de testes:
+- Plano de Testes ( [Clique Aqui](https://github.com/jacksonhmteixeira/BuildersDesafioQADocumentacaoJackson/tree/main/01%20-%20Plano%20de%20Testes) );
+- Cenários de Testes ( [Clique aqui](https://github.com/jacksonhmteixeira/BuildersDesafioQADocumentacaoJackson/tree/main/02%20-%20Cenarios) );
+- Relatórios de Defeitos Encontrados ( [Clique aqui](https://github.com/jacksonhmteixeira/BuildersDesafioQADocumentacaoJackson/tree/main/04%20-%20Defeitos) );
+- Evidências de Testes com Observações ( [Clique aqui](https://github.com/jacksonhmteixeira/BuildersDesafioQADocumentacaoJackson/tree/main/03%20-%20Evidencias) ).
 
-## 2° - Documentações de Testes
+Essas documentações se encontra em outro repositório no GitHub, caso queira clonar, executar o comando:
 
-- CENARIOS
-  - [CENARIOS DE TESTES] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/CENARIOS/PDF/%5BCENARIOS%20DE%20TESTES%5D.pdf);*
-- DEFEITOS
-  - [001][DEFEITOS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B001%5D%20%5BDEFEITOS%5D%20%5BTELA%20INICIAL%5D.pdf);*
-  - [002][DEFEITOS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B002%5D%20%5BDEFEITOS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.pdf);*
-  - [003][DEFEITOS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B003%5D%20%5BDEFEITOS%5D%20%5BTEMPERATURA%5D.pdf);*
-  - [004][DEFEITOS][UX] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/DEFEITOS/PDF/%5B004%5D%20%5BDEFEITOS%5D%20%5BUX%5D.pdf);*
-- EVIDENCIAS
-  - [001][EVIDENCIAS][TELA INICIAL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B001%5D%20%5BEVIDENCIAS%5D%20%5BTELA%20INICIAL%5D.pdf);*
-  - [002][EVIDENCIAS][CADASTRO][CARROSSEL] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B002%5D%20%5BEVIDENCIAS%5D%20%5BCADASTRO%5D%20%5BCARROSSEL%5D.pdf);*
-  - [003][EVIDENCIAS][TEMPERATURA] *[(Visualizar)](https://github.com/jacksonhmteixeira/BuildersDesafioQAJackson/blob/main/EVIDENCIAS/PDF/%5B003%5D%20%5BEVIDENCIAS%5D%20%5BTEMPERATURA%5D.pdf);*
+```bash
+    # CLONAR REPOSITÓRIO DE DOCUMENTAÇÃO
+    git clone https://github.com/jacksonhmteixeira/BuildersDesafioQADocumentacaoJackson.git
+```
+
+# Automação
+
+Para ter acesso a automação, acesse o link.
+Repositório: https://github.com/jacksonhmteixeira/BuildersDesafioAutomationJackson
