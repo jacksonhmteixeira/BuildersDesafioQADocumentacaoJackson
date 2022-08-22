@@ -23,4 +23,5 @@ Essas documentações se encontra em outro repositório no GitHub, caso queira c
 # Automação
 
 Para ter acesso a automação, acesse o link.
-Repositório: https://github.com/jacksonhmteixeira/BuildersDesafioAutomationJackson
+
+- Repositório: https://github.com/jacksonhmteixeira/BuildersDesafioAutomationJackson
