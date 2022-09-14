@@ -1,8 +1,8 @@
 <div align="center">
 
-# Builders - Desafio QA - Documentação
+# Builders - Documentação
 
-Esse repositório foi criado para armazenar o desafio da **Builders**.
+Esse repositório foi criado para armazenar a documentação do desafio da **Builders**.
 </div>
 
 #  Documentações de Testes
