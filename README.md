@@ -1,8 +1,8 @@
 <div align="center">
 
-# Builders - Documentação
+# Documentações
 
-Esse repositório foi criado para armazenar a documentação do desafio da **Builders**.
+Esse repositório foi criado para armazenar a documentações referente ao teste Mobile.
 </div>
 
 #  Documentações de Testes
